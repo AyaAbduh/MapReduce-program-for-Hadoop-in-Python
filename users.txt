@@ -1,0 +1,9 @@
+1	Afghanistan	Dari Persian
+2	Albania	Albanian 
+3	Algeria	Arabic 
+4	Andorra	Catalán 
+5	Angola	Portuguese 
+6	Argentina	Spanish 
+7	Australia	English 
+8	Azerbaijan	Azerbaijani Turkic 
+9	Bahamas	English

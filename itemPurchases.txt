@@ -1,0 +1,60 @@
+303	8	11	sugar	8
+303	8	17	dishwashing liquid	9
+303	8	12	flour	6
+303	8	2	soda	9
+303	8	1	juice	1
+303	8	1	juice	6
+232	5	5	hand soap	6
+232	5	3	butter	1
+232	5	26	sandwich loaves	2
+232	5	22	coffee	2
+341	9	21	milk	1
+255	8	26	sandwich loaves	4
+255	8	17	dishwashing liquid	3
+255	8	19	batteries	5
+255	8	14	 dinner rolls	10
+255	8	18	paper towels	6
+255	8	30	Bread	7
+255	8	9	shampoo	2
+255	8	7	sandwich bags	4
+214	3	20	eggs	9
+214	3	18	paper towels	2
+311	9	22	coffee	10
+311	9	6	shaving cream	2
+311	9	15	pasta	8
+311	9	6	shaving cream	3
+311	9	20	eggs	3
+311	9	28	Rice	8
+311	9	9	shampoo	7
+311	9	31	Nuts	4
+393	6	6	shaving cream	3
+393	6	5	hand soap	2
+393	6	13	waffles	1
+393	6	18	paper towels	10
+393	6	12	flour	5
+393	6	29	Coconut Oil	2
+329	3	27	Pizza bar	2
+329	3	26	sandwich loaves	6
+329	3	22	coffee	6
+329	3	24	greeting cards	7
+329	3	17	dishwashing liquid	8
+329	3	12	flour	10
+329	3	26	sandwich loaves	7
+329	3	12	flour	2
+329	3	24	greeting cards	1
+329	3	20	eggs	10
+227	5	28	Rice	10
+227	5	26	sandwich loaves	1
+227	5	21	milk	3
+227	5	16	ice cream	6
+227	5	29	Coconut Oil	8
+227	5	29	Coconut Oil	8
+227	5	28	Rice	7
+227	5	7	sandwich bags	9
+227	5	12	flour	5
+296	7	9	shampoo	10
+296	7	18	paper towels	7
+296	7	23	cheeses	7
+296	7	3	butter	4
+296	7	24	greeting cards	2
+296	7	18	paper towels	6
